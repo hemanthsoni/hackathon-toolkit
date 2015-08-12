@@ -1,6 +1,6 @@
 Hackathon Toolkit
 ===================
-A collection of open source scripts, frameworks, and quickstart demos for use in hackathons. Currently in the very early stages, not even all the resources listed below are linked. As of right now, it's just a list of resources, but I'll be adding code examples soon! Feel free to contribute with pieces of code from past hackathons, school, etc.
+A collection of open source scripts, frameworks, and quickstart demos for use in hackathons. Currently in the very early stages - it's just a list of resources, but I'll be adding code examples soon! Feel free to contribute with pieces of code from past hackathons, school, etc.
 
 ----------
 
@@ -35,15 +35,16 @@ Links
 
 **API's:**
 - [Twilio](https://www.twilio.com/api) & [Plivo](https://www.plivo.com/docs/api/)
+- [Clearbit](https://clearbit.com/docs) & [FullContact](https://www.fullcontact.com/developer/)
 - [Uber](https://developer.uber.com/)
-- [Google](https://developers.google.com/apis-explorer/#p/)
-- [Yahoo]()
-- [Twitter]()
-- [Facebook]()
-- [Instagram]()
-- [Foursquare]()
-- [SoundCloud]()
-- [Bit.ly]()
-- [Yelp]()
-- [Amazon S3]()
-- [Accuweather]()
+- [Google API Explorer](https://developers.google.com/apis-explorer/#p/)
+- [Yahoo Products](https://developer.yahoo.com/everything.html)
+- [Twitter](https://dev.twitter.com/overview/api)
+- [Facebook Graph](https://developers.facebook.com/docs/graph-api)
+- [Instagram](https://instagram.com/developer/)
+- [Foursquare](https://developer.foursquare.com/)
+- [SoundCloud](https://developers.soundcloud.com/docs/api/guide)
+- [Bit.ly](http://dev.bitly.com/)
+- [Yelp](https://www.yelp.com/developers/documentation/v2/overview)
+- [Amazon S3](http://docs.aws.amazon.com/AmazonS3/latest/API/APIRest.html)
+- [Accuweather](http://apidev.accuweather.com/developers/)
